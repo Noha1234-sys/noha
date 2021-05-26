@@ -1,0 +1,1 @@
+alert("hello mac user");
